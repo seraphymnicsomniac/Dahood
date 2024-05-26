@@ -1,4 +1,5 @@
 if getgenv().Seraphim.Startup == true then
+print("Starting..")
 --INTRO
 local gui = Instance.new("ScreenGui")
 gui.Name = "SeraphimGUI"
