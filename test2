@@ -1,6 +1,7 @@
-if getgenv().testtrue then
-print("testworking.")
-else
-print("testisfalse")
-end
---upd
+Keys = {
+key1291,
+key12913213,
+key12911221412,
+key129111,
+key1291981
+}
